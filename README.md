@@ -31,8 +31,3 @@ This dashboard simulates how fintech lenders can dynamically evaluate loan portf
 ![Loan Portfolio Dashboard Screenshot](Screenshot_28-4-2025_164017_.jpeg)
 
 ---
-
-### 🚀 Connect with Me:  
-[LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN-URL)
-
----
